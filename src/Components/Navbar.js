@@ -7,7 +7,6 @@ import {
   IconButton,
 } from "@material-tailwind/react";
 import Logo from "../asset/logoblack.png"
-import { a } from "react-router-dom";
 import { IoMdArrowRoundUp } from "react-icons/io";
 export function NavbarTwo() {
   const [openNav, setOpenNav] = React.useState(false);
