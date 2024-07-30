@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import CasaMainImage from "../asset/mainBanner.webp"
-import CasaOneImage from "../asset/canteen.webp"
-import CasaTwoImage from "../asset/casa1.webp"
-import CasaThreeImage from "../asset/casa2.webp"
+import CasaOneImage from "../asset/casa1.webp"
+import CasaTwoImage from "../asset/WhatsApp Image 2024-07-30 at 13.10.41.jpeg"
+import CasaThreeImage from "../asset/canteen.webp"
 import CasaFourImage from "../asset/casa3.webp"
 import { LazyLoadImage } from 'react-lazy-load-image-component'
 import 'react-lazy-load-image-component/src/effects/blur.css';
