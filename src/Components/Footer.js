@@ -23,7 +23,15 @@ const Footer = () => {
             </div>
         </div>
         <div className='col-span-1 mt-3 md:mt-12' >
-            <h3 className='font-[NeueRegular]'>support@unionliving.in</h3>
+        <p className='font-[NeueRegular]'>
+         <strong className='font-[NeueMedium]' >  Customer Service </strong> 
+         <br />
+       <a className='' href='mailto:csteam.unionliving@gmail.com' > csteam.unionliving@gmail.com</a>
+        <br /> 
+        <strong className='font-[NeueMedium]' >  General Enquiry </strong> 
+        <br />
+        <a className='' href='mailto:info@unionliving.in' > info@unionliving.in </a>
+            </p>
            <h3 className='font-[NeueRegular]'>+919137915406</h3>
           
         </div>
