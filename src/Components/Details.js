@@ -54,10 +54,7 @@ const Details = ({propertyDetail}) => {
                 <img className='lg:w-[50px] w-[30px] mt-[-18px]' src={Elevator} />
                 <p className='font-[NeueRegular]  text-[0.8rem]  lg:text-[1rem]' >Elevator</p>
             </div>
-            <div className='flex mt-6 items-center justify-start gap-4' >
-                <img className='lg:w-[50px] w-[30px] mt-[-18px]' src={Gym} />
-                <p className='font-[NeueRegular]  text-[0.8rem]  lg:text-[1rem]' >Gym</p>
-            </div>
+           
             <div className='flex mt-6 items-center justify-start gap-4' >
                 <img className='lg:w-[50px] w-[30px] mt-[-18px]' src={Food} />
                 <p className='font-[NeueRegular]  text-[0.8rem]  lg:text-[1rem]' >Meals</p>
