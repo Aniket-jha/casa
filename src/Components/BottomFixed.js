@@ -7,7 +7,7 @@ const BottomNavConstant = ({propertyDetail}) => {
     <div className='fixed z-[999] bottom-0 lg:flex items-center justify-between py-2 px-4 lg:px-16 lg:py-2 w-full bg-gray-100'>
     <div>
         <h3 className='font-[NeueMedium] lg:text-left text-center text-[1.2rem]  text-[#272727] capitalize lg:text-[2rem]'>Casa</h3>
-        <h3 className='font-[NeueRegular] lg:text-left text-center lg:text-[1rem]  text-[.7rem] ' >Starting At: Rs.24,999</h3>
+        <h3 className='font-[NeueRegular] lg:text-left text-center lg:text-[1rem]  text-[.7rem] ' >Starting At: Rs. 35,000</h3>
     </div>
         <div className='flex items-center gap-2 lg:gap-12 justify-center' >
             
