@@ -16,7 +16,7 @@ const Rooms = () => {
                 </div>
             </div>
             <div className='lg:flex hidden  mt-2 lg:mt-3 items-center justify-center' >
-           <a target='_blank' rel='noreferrer' href="https://firebasestorage.googleapis.com/v0/b/union-living.appspot.com/o/files%2FCASA%20by%20Union.pdf?alt=media&token=6baef5da-1b6f-46af-bb13-fe160a52c6b5https://firebasestorage.googleapis.com/v0/b/union-living.appspot.com/o/files%2FCASA%20by%20Union.pdf?alt=media&token=6baef5da-1b6f-46af-bb13-fe160a52c6b5" download> <button className="uppercase flex items-center justify-center gap-2 lg:gap-3 rounded-lg shadow-md  font-[NeueMedium] ease-in duration-300  text-[12px] md:text-[16px]  hover:shadow-none hover:bg-[#272727] tracking-wider py-[12px] px-[16px] mt-3 md:py-[12px] md:px-[24px] text-[#FFFEFC] bg-[#D64C27]" > What's Included in Rent?  </button></a>
+           <a target='_blank' rel='noreferrer' href="https://firebasestorage.googleapis.com/v0/b/grc-logistics.appspot.com/o/files%2FCASA%20by%20Union.pdf?alt=media&token=bb141ea8-23e8-490a-ba24-03cf70971d10" download> <button className="uppercase flex items-center justify-center gap-2 lg:gap-3 rounded-lg shadow-md  font-[NeueMedium] ease-in duration-300  text-[12px] md:text-[16px]  hover:shadow-none hover:bg-[#272727] tracking-wider py-[12px] px-[16px] mt-3 md:py-[12px] md:px-[24px] text-[#FFFEFC] bg-[#D64C27]" > What's Included in Rent?  </button></a>
            </div>
     </div>
   )
