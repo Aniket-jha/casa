@@ -29,7 +29,7 @@ const Details = ({propertyDetail}) => {
         
         <h1 className='font-[NeueBold]  text-[1.5rem] leading-[1.5rem] lg:leading-[3rem]  uppercase lg:text-[2rem]' >Enjoy Premier Amenities and a Thriving Community in Andheri, Mumbai</h1>
         <p className='font-[NeueRegular]  text-[0.8rem]  lg:text-[1.1rem] ' > Experience vibrant co-living in Andheri with modern amenities, high-speed Wi-Fi, and a welcoming community, perfect for professionals and students alike.</p>
-        <a target='_blank' rel='noreferrer' href="https://form.jotform.com/241691749314462"> <button className="uppercase flex  lg:mt-4 mt-2 items-center justify-center gap-3 rounded-lg shadow-md  font-[NeueMedium] ease-in duration-300    hover:shadow-none hover:bg-[#272727] tracking-wider text-[10px] py-3 px-6 md:text-[16px] md:py-[12px] md:px-[24px] text-[#FFFEFC] bg-[#D64C27]" > Book Now </button></a>
+        <a target='_blank' rel='noreferrer' href="https://unionliving.in/form"> <button className="uppercase flex  lg:mt-4 mt-2 items-center justify-center gap-3 rounded-lg shadow-md  font-[NeueMedium] ease-in duration-300    hover:shadow-none hover:bg-[#272727] tracking-wider text-[10px] py-3 px-6 md:text-[16px] md:py-[12px] md:px-[24px] text-[#FFFEFC] bg-[#D64C27]" > Book Now </button></a>
       </div>
       <div className='border-t-[2px] lg:border-t-[0px] lg:border-l-[2px] pl-0 py-6 lg:py-0 lg:pl-12 border-gray-400' >
       <h1 className='font-[NeueBold]  text-[1.5rem] leading-[1.5rem] lg:leading-[3.5rem]  uppercase lg:text-[2.5rem]' >Amenities</h1>

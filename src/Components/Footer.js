@@ -11,7 +11,7 @@ const Footer = () => {
         <div className='col-span-1' >
             <img className='w-[130px]' src={Logo} />
             <p className='font-[NeueRegular] text-[1rem] text-[#272727]' >Live Easy, Live United</p>
-            <a href='https://form.jotform.com/241691749314462'> <button className="uppercase flex items-center justify-center gap-3 rounded-lg shadow-md  font-[NeueMedium] ease-in duration-300  text-[12px] md:text-[16px]  hover:shadow-none hover:bg-[#272727] tracking-wider py-[8px] px-[24px] mt-3 md:py-[12px] md:px-[24px] text-[#FFFEFC] bg-[#D64C27]" >Book Now  </button></a>
+            <a href='https://unionliving.in/form'> <button className="uppercase flex items-center justify-center gap-3 rounded-lg shadow-md  font-[NeueMedium] ease-in duration-300  text-[12px] md:text-[16px]  hover:shadow-none hover:bg-[#272727] tracking-wider py-[8px] px-[24px] mt-3 md:py-[12px] md:px-[24px] text-[#FFFEFC] bg-[#D64C27]" >Book Now  </button></a>
         </div>
         <div className='col-span-5 mt-3 md:mt-12' >
             <div className='md:flex items-center md:justify-center gap-4 md:gap-12' >
